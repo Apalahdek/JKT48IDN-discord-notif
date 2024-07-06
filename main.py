@@ -11,7 +11,7 @@ import random
 bot = commands.Bot(command_prefix='!')
 
 # Nama channel yang akan digunakan untuk notifikasi
-channel_name = 'idn'
+channel_name = 'jk48'
 
 # Fungsi untuk mengambil data dari API baru
 def get_livestream_data():
@@ -127,4 +127,4 @@ def get_greeting(live_at):
 # Menjalankan bot
 if __name__ == '__main__':
     print("Bot is starting...")
-    bot.run('BOT_TOKEN')
+    bot.run('MTI1ODkyOTUyOTQ1MjM2MzgyNw.GQXfpq.RlZH-NcJoneUx_x53dmaVEecY30s43SLSiBWg4')
