@@ -127,4 +127,4 @@ def get_greeting(live_at):
 # Menjalankan bot
 if __name__ == '__main__':
     print("Bot is starting...")
-    bot.run('MTI1ODkyOTUyOTQ1MjM2MzgyNw.GQXfpq.RlZH-NcJoneUx_x53dmaVEecY30s43SLSiBWg4')
+    bot.run('MTI1OTE4ODA4NDUzNzU2MTE2OQ.GoIDNq.uqVO9D6LQc6UJKJajxVbdq1kG5YDgYwYTPb1bI')
