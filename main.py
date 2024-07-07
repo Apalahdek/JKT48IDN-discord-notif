@@ -11,7 +11,7 @@ import random
 bot = commands.Bot(command_prefix='!')
 
 # Nama channel yang akan digunakan untuk notifikasi
-channel_name = 'jk48'
+channel_name = '🖥｜jkt48-live'
 
 # Fungsi untuk mengambil data dari API baru
 def get_livestream_data():
